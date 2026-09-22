@@ -164,6 +164,7 @@ Manufacturing Preparation
 
 ### 🔌 Schematic Design
 
+<img width="1454" height="858" alt="image" src="https://github.com/user-attachments/assets/b6a97ebf-1fc6-487c-8998-cadfa7777a76" />
 
 ![Schematic](images/schematic.png)
 
@@ -171,11 +172,16 @@ Manufacturing Preparation
 
 
 
+<img width="1608" height="927" alt="image" src="https://github.com/user-attachments/assets/edf92ca7-838a-40b0-96f4-bf57f6dc9a09" />
 
 ![PCB Layout](images/pcb-layout-top.png)
 
 
 ### 🧊 3D PCB View
+<img width="655" height="688" alt="image" src="https://github.com/user-attachments/assets/dff34340-baca-465c-b5d4-671301764202" />
+<img width="772" height="731" alt="image" src="https://github.com/user-attachments/assets/47b21304-df32-48d8-bcc1-8929d3c99eb8" />
+<img width="1192" height="779" alt="image" src="https://github.com/user-attachments/assets/a354705a-7288-47fe-985f-56ea13e7abc7" />
+<img width="530" height="785" alt="image" src="https://github.com/user-attachments/assets/c01167d1-e7bd-4d60-b578-11fac6c87124" />
 
 ![3D PCB](images/3DPcb.png)
 
